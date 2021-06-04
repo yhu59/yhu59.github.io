@@ -12,6 +12,13 @@
   <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
   <p><b> The Loomis Chaffee School </b> </p>
   <p> High School Diploma'19, GPA: 3.92/4.0 </p>
+  <p> </p>
+  <p> <b>Selective Completed Courseworks</b></p>
+  <p>         - Biology: Biochemistry, Cell Biology, Intro to Biological Molecules</p>
+  <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/Lab </p>
+  <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications
+  <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I 
+  <p>         - Mathmaetics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
 <h2>Research Experiences </h2>
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
@@ -30,7 +37,7 @@
 <h2> Organizations </h2>
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
-  <p> - JHU PILOT: <i>Leader </i> </p>
+  <p> - JHU PILOT: <i>Session Leader </i></p>
   <p> - JHU Blue Key Society: <i>International Recruiment Committee Member  </i> </p>
 
 <h2> Awards </h2>
