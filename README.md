@@ -12,13 +12,13 @@
   <p><b> The Loomis Chaffee School </b> </p>
   <p> High School Diploma'19, GPA: 3.92/4.0 </p>
   
-<h3>Research Experiences </h3>
+<h2>Research Experiences </h2>
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
   <p> - Dr. Scott Wilson at Translational Tissue Engineering Center, Johns Hopkins School of Medicine </p>
   <p> - Dr. Feng Rao at Southern China University of Science and Technology </p>
   <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck, University of Connecitcut Children's Hospital  </p>
   
-<h4>Volunteer Experiences </h4>
+<h2>Volunteer Experiences </h2>
   <p> I am engaged in the following services where I give back to the commmunity. </p>
   <p> - Translators Without Borders: <i>Senior Verified Translator</i> </p>
   <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site : <i>Volunteer</i> </p>
@@ -26,13 +26,13 @@
   <p> - Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
   <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
 
-<h5>Organizations</h5>
+<h2> Organizations </h2>
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
   <p> - JHU PILOT: <i>Leader </i> </p>
   <p> - JHU Blue Key Society: <i>International Recruiment Committee Member  </i> </p>
 
-<h6>Awards</h6>
+<h2> Awards </h2>
   <p> At JHU: </p>
   <p>     - Dean's List </p>
   <p> At Loomis: </p> 
