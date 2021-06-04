@@ -10,9 +10,7 @@
   <p> Minor in Entrepenurship & Management </p>
   <p> Minor in Mathmatetics </p>
   <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
-  <p><b> The Loomis Chaffee School </b> </p>
-  <p> High School Diploma'19, GPA: 3.92/4.0 </p>
-  <p> </p>
+  <p></p>
   <p> <b>Selective Completed Courseworks:</b></p>
   <p>         - Biology: Biochemistry, Cell Biology, Intro to Biological Molecules</p>
   <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/Lab </p>
@@ -20,6 +18,10 @@
   <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I </p>
   <p>         - Mathmaetics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
+  <p><b> The Loomis Chaffee School </b> </p>
+  <p> High School Diploma'19, GPA: 3.92/4.0 </p>
+  <p> </p>
+ 
 <h2>Research Experiences </h2>
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
   <p> - Dr. Scott Wilson at Translational Tissue Engineering Center, Johns Hopkins School of Medicine </p>
