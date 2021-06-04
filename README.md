@@ -4,7 +4,7 @@
   <p> Email: yhu59@jhu.edu</p>
   <p> I am Jimmy.  </p>
 <h2>Academic Experiences </h2>
-  <p> Johns Hopkins University  </p>
+  <p><b> Johns Hopkins University </b> </p>
   <p> The Loomis Chaffee School </p>
 <h3>Volunteer Experiences </h3>
 </html>
