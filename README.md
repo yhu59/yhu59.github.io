@@ -1,4 +1,4 @@
-#yhu59.github.io
+
 <html>
 <h1>Yanxiang "Jimmy" Hu </h1>
   <p> Email: yhu59@jhu.edu</p>
@@ -48,6 +48,5 @@
   <p>     - Inducted to Cum Laude Society </p>
   <p>     - National Latin Examination Level II and III Silver Medals </p>
   <p>     - Junior Mathmathetics Award </p>
-  
-  
+    
 </html>
