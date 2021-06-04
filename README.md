@@ -34,13 +34,14 @@
   <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site : <i>Volunteer</i> </p>
   <p> - Mercy Medical Center: <i>Volunteer </i> </p>
   <p> - Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
-  <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
+ 
 
 <h2> Organizations </h2>
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
   <p> - JHU PILOT: <i>Session Leader </i></p>
   <p> - JHU Blue Key Society: <i>International Recruiment Committee Member  </i> </p>
+  <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
 <h2> Awards </h2>
