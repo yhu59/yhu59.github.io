@@ -9,6 +9,7 @@
   <p> Bachelor of Science in Chemical and Biomolecular Engineering, Molecular and Cellular Bioengineering Track '23, </p>
   <p> Minor in Entrepenurship & Management </p>
   <p> Minor in Mathmatetics </p>
+  <p> Academic Adivisor: Dr. Konstantopulos Konstantinos </p>
   <p><b> The Loomis Chaffee School </b> </p>
   <p> High School Diploma'19, GPA: 3.92/4.0 </p>
   
