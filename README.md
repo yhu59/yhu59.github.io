@@ -16,11 +16,11 @@
   
 <h4>Volunteer Experiences </h4>
   <p> I am involved in the following organizations where I give back to the commmunity through service. </p>
-  <p> Translators Without Borders: <i>Senior Verified Translator</i> </p>
-  <p> MT&T Bank Stadium COVID-19 Mass Vaccination Site : <i>Volunteer </i> </p>
-  <p> Mercy Medical Center: <i>Volunteer </i> </p>
-  <p> Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
-  <p> Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
+  <p> - Translators Without Borders: <i>Senior Verified Translator</i> </p>
+  <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site : <i>Volunteer </i> </p>
+  <p> - Mercy Medical Center: <i>Volunteer </i> </p>
+  <p> - Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
+  <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
   
 
   
