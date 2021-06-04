@@ -13,11 +13,11 @@
   <p><b> The Loomis Chaffee School </b> </p>
   <p> High School Diploma'19, GPA: 3.92/4.0 </p>
   <p> </p>
-  <p> <b>Selective Completed Courseworks</b></p>
+  <p> <b>Selective Completed Courseworks:</b></p>
   <p>         - Biology: Biochemistry, Cell Biology, Intro to Biological Molecules</p>
   <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/Lab </p>
-  <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications
-  <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I 
+  <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications </p>
+  <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I </p>
   <p>         - Mathmaetics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
 <h2>Research Experiences </h2>
