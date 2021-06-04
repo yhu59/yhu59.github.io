@@ -39,6 +39,7 @@
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
   <p> - JHU PILOT: <i>Session Leader </i></p>
   <p> - JHU Blue Key Society: <i>International Recruiment Committee Member  </i> </p>
+  <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
 <h2> Awards </h2>
   <p> At JHU: </p>
