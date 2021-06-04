@@ -12,8 +12,8 @@
   <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
   <p></p>
   <p> <b>Selective Completed Courseworks:</b></p>
-  <p>         - Biology: Biochemistry, Cell Biology, Intro to Biological Molecules</p>
-  <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/Lab </p>
+  <p>         - Biology: Biochemistry w/lab, Cell Biology, Intro to Biological Molecules</p>
+  <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
   <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications </p>
   <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I </p>
   <p>         - Mathmaetics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
