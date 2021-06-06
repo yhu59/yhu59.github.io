@@ -2,7 +2,7 @@
 <html>
 <h1>Yanxiang "Jimmy" Hu </h1>
   <p> Email: yhu59@jhu.edu</p>
-  <p> I am Jimmy, a Chemical and Biomolecular Engineer intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
+  <p> I am Jimmy, a Chemical and Biomolecular Engineer intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
