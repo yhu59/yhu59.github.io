@@ -26,7 +26,7 @@
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
   <p> - Dr. Scott Wilson at Translational Tissue Engineering Center, Johns Hopkins School of Medicine </p>
   <p> - Dr. Feng Rao at Southern China University of Science and Technology </p>
-  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck, University of Connecitcut Children's Hospital  </p>
+  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck at University of Connecitcut Children's Hospital  </p>
   
 <h2>Volunteer Experiences </h2>
   <p> I am engaged in the following services where I give back to the commmunity. </p>
