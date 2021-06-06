@@ -45,8 +45,6 @@
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
 <h2> Awards </h2>
-  <p> At JHU: </p>
-  <p>     - Dean's List </p>
   <p> At Loomis: </p> 
   <p>     - Inducted to Cum Laude Society </p>
   <p>     - National Latin Examination Level II and III Silver Medals </p>
