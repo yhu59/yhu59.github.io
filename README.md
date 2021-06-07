@@ -5,7 +5,7 @@
   <p> I am Jimmy, a Chemical and Biomolecular Engineer intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
 <h2>Recent Updates and News </h2>
-  <p> June 2021: Finished Sophomore Year and launched this website! Started working in Wilson Lab! </p>
+  <p> June 2021: Finished sophomore year and launched this website! Started to work in the Wilson Lab and volunteer at Mercy! </p>
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
