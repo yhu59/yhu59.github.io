@@ -10,8 +10,8 @@
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
   <p> Bachelor of Science in Chemical and Biomolecular Engineering, Molecular and Cellular Bioengineering Track '23, </p>
-  <p> Minor in Entrepenurship & Management </p>
-  <p> Minor in Mathmatetics </p>
+  <p> Minor in Entrepreneurship & Management </p>
+  <p> Minor in Mathematics </p>
   <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
   <p></p>
   <p> <b>Selective Completed Courseworks:</b></p>
@@ -19,7 +19,7 @@
   <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
   <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications </p>
   <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I </p>
-  <p>         - Mathmaetics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
+  <p>         - Mathematics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
   <p><b> The Loomis Chaffee School </b> </p>
   <p> High School Diploma'19, GPA: 3.92/4.0 </p>
