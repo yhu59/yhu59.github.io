@@ -34,7 +34,8 @@
 <h2>Volunteer Experiences </h2>
   <p> I am engaged in the following services where I give back to the commmunity. </p>
   <p> - Translators Without Borders: <i>Senior Verified Translator</i> </p>
-  <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site : <i>Volunteer</i> </p>
+  <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site: <i>Volunteer</i> </p>
+  <p> - Mt.Washington Pediatric Hospital: <i>Childlife Volunteer </i> </p>
   <p> - Mercy Medical Center: <i>Volunteer </i> </p>
   <p> - Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
  
