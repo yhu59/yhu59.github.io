@@ -5,7 +5,7 @@
   <p> I am Jimmy, a Chemical and Biomolecular Engineering student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
 <h2>Recent Updates and News </h2>
-  <p> August 2021: Started to work in the Wilson Lab, volunteer at Mercy and Mt.Washington Pediatric Hospital! </p>
+  <p> Fall 2021: Started to work as teaching assistant for Transport I and excited to start serving on the IDIES board! </p>
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
@@ -39,7 +39,12 @@
   <p> - Mercy Medical Center: <i>Volunteer </i> </p>
   <p> - Baltimore Harm Reduction Coalition: <i> Outreach Volunteer </i></p>
  
-
+<h2>Teaching Experiences </h2>
+  <p> I am involved with teaching and academic support in the following ways. </p>
+  <p> - Transport Phenomena I (EN540.303): <i>Teaching Assistant, Fall 2021 </i> </p>
+  <p> - Calculus III (AS 110.202): <i>PILOT Leader, Fall 2020, Fall 2021 </i></p>
+  <p> - Differential Equations (AS 110.302): <i>PILOT Leader, Spring 2021 </i></p>
+  
 <h2> Organizations </h2>
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
