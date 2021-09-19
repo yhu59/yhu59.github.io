@@ -49,7 +49,7 @@
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>VP of Student Affairs</i> </p>
   <p> - JHU PILOT: <i>Session Leader </i></p>
-  <p> - JHU Blue Key Society: <i>International Recruiment Committee Member  </i> </p>
+  <p> - JHU Blue Key Society: <i>International Recruiment Committee Member, Head Tour Guide </i> </p>
   <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
