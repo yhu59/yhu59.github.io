@@ -1,7 +1,6 @@
 
 <html>
-<img src="Ryan Photo.png" alt="">
-  <h1>Yanxiang "Jimmy" Hu's Personal Website</h1>
+<h1>Yanxiang "Jimmy" Hu's Personal Website</h1>
   <p> Email: yhu59@jhu.edu</p>
   <p> I am Jimmy, a Chemical and Biomolecular Engineering student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
