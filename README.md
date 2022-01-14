@@ -5,20 +5,20 @@
   <p> I am Jimmy, a Chemical and Biomolecular Engineering student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
 <h2>Recent Updates and News </h2>
-  <p> Fall 2021: Started to work as teaching assistant for Transport I and excited to start serving on the IDIES board! </p>
+  <p> Winter 2021: Started to work as teaching assistant for Exploring Leadership!</p>
+  <p> Fall 2021: Started to work as teaching assistant for Transport I and present research at JHU AICHE Poster Presentation!</p>
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
   <p> Bachelor of Science in Chemical and Biomolecular Engineering, Molecular and Cellular Bioengineering Track '23, </p>
   <p> Minor in Entrepreneurship & Management </p>
-  <p> Minor in Mathematics </p>
   <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
   <p></p>
   <p> <b>Selective Completed Courseworks:</b></p>
-  <p>         - Biology: Biochemistry w/lab, Cell Biology, Intro to Biological Molecules</p>
-  <p>         - Chemistry: Biomaterials I, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
-  <p>         - Entrepenurship: Financial Accounting, Professional Writing and Communications </p>
-  <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I </p>
+  <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Intro to Biological Molecules</p>
+  <p>         - Chemistry: Biomaterials I&II, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
+  <p>         - Entrepenurship: Financial Accounting, Leadership Theory, Professional Writing and Communications </p>
+  <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I&II </p>
   <p>         - Mathematics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
   <p><b> The Loomis Chaffee School </b> </p>
@@ -41,6 +41,7 @@
  
 <h2>Teaching Experiences </h2>
   <p> I am involved with teaching and academic support in the following ways. </p>
+  <p> - Exploring Leadership (EN660.142): <i>Course Assistant, Intercession 2022 </i> </p>
   <p> - Transport Phenomena I (EN540.303): <i>Teaching Assistant, Fall 2021 </i> </p>
   <p> - Calculus III (AS 110.202): <i>PILOT Leader, Fall 2020, Fall 2021 </i></p>
   <p> - Differential Equations (AS 110.302): <i>PILOT Leader, Spring 2021 </i></p>
