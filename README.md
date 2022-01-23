@@ -52,6 +52,7 @@
   <p> - JHU PILOT: <i>Session Leader </i></p>
   <p> - JHU Blue Key Society: <i>International Recruiment Committee Member, Head Tour Guide </i> </p>
   <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
+  <p> - JHU STEM Leads: <i> Co-VP </i> </p>
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
 <h2> Awards </h2>
