@@ -2,20 +2,22 @@
 <html>
 <h1>Yanxiang "Jimmy" Hu's Personal Website</h1>
   <p> Email: yhu59@jhu.edu</p>
-  <p> I am Jimmy, a Chemical and Biomolecular Engineering student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
+  <p> I am Jimmy, a Chemical and Biomolecular Engineering and Biology student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for projects to work on as a part of a design team and am eager to translate what I have learned into real life products.</p>
   
 <h2>Recent Updates and News </h2>
+  <p> Spring 2022: Extremely excited to formally declare a double major in Molecular and Cellular Biology! And wrapping up Junior Year</p>
   <p> Winter 2021: Started to work as teaching assistant for Exploring Leadership!</p>
   <p> Fall 2021: Started to work as teaching assistant for Transport I and present research at JHU AICHE Poster Presentation!</p>
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
   <p> Bachelor of Science in Chemical and Biomolecular Engineering, Molecular and Cellular Bioengineering Track '23, </p>
+  <p> Bachelor of Science in Molecular and Cellular Biology '23, </p>
   <p> Minor in Entrepreneurship & Management </p>
-  <p> Academic Adivisor: Dr. Konstantinos Konstantopulos </p>
+  <p> Academic Adivisors: Dr. Konstantinos Konstantopulos, Dr. Emily Fisher </p>
   <p></p>
   <p> <b>Selective Completed Courseworks:</b></p>
-  <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Intro to Biological Molecules</p>
+  <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Genetics</p>
   <p>         - Chemistry: Biomaterials I&II, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
   <p>         - Entrepenurship: Financial Accounting, Leadership Theory, Professional Writing and Communications </p>
   <p>         - Engineering: Gateway Computing: Python, Intro to Chemical and Biological Processes, Transport Phenomena I&II </p>
