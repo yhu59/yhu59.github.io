@@ -5,9 +5,10 @@
   <p> I am Jimmy, a Chemical and Biomolecular Engineering and Biology student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for clinical research positions and opportunities to work in the healthcare setting.</p>
   
 <h2>Recent Updates and News </h2>
+  <p> Spring 2023: Attended 2023 AIChE Mid-Altantic Regional Conference in Blacksburg, Virginia, and presented research! </p>
+  <p> Fall 2022: Attended 2022 AIChE Annual Student Conference in Phoenix, Arizona and presented my research!</p>
   <p> Spring 2022: Extremely excited to formally declare a double major in Molecular and Cellular Biology! And wrapping up Junior Year</p>
-  <p> Winter 2021: Started to work as teaching assistant for Exploring Leadership!</p>
-  <p> Fall 2021: Started to work as teaching assistant for Transport I and present research at JHU AICHE Poster Presentation!</p>
+  
   
 <h2>Academic Experiences </h2>
   <p><b> Johns Hopkins University </b> </p>
@@ -17,7 +18,7 @@
   <p> Academic Adivisors: Dr. Konstantinos Konstantopulos, Dr. Emily Fisher </p>
   <p></p>
   <p> <b>Select Completed Coursework:</b></p>
-  <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Genetics</p>
+  <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Genetics, Molecular Biology </p>
   <p>         - Chemistry: Biomaterials I&II, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
   <p>         - Entrepenurship: Financial Accounting, Leadership Theory, Professional Writing and Communications </p>
   <p>         - Engineering: Gateway Computing: Python, Transport Phenomena I&II, Separations, Kinetics </p>
@@ -44,24 +45,27 @@
 <h2>Teaching Experiences </h2>
   <p> I am involved with teaching and academic support in the following ways. </p>
   <p> - Exploring Leadership (EN660.142): <i>Course Assistant, Intercession 2022 </i> </p>
-  <p> - Transport Phenomena I (EN540.303): <i>Teaching Assistant, Fall 2021 </i> </p>
+  <p> - Transport Phenomena I (EN540.303): <i>Teaching Assistant, Fall 2021 and 2022 </i> </p>
   <p> - Calculus III (AS 110.202): <i>PILOT Leader, Fall 2020, Fall 2021 </i></p>
-  <p> - Differential Equations (AS 110.302): <i>PILOT Leader, Spring 2021 </i></p>
+  <p> - Differential Equations (AS 110.302): <i>PILOT Leader, Spring 2021 and 2023 </i></p>
   <p> - Calculus II (AS 110.107): <i>PILOT Leader, Spring 2022 </i></p>
   
 <h2> Organizations </h2>
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>President</i> </p>
   <p> - JHU PILOT: <i>Session Leader </i></p>
-  <p> - JHU Blue Key Society: <i>International Recruiment Committee Member, Head Tour Guide </i> </p>
+  <p> - JHU Blue Key Society: <i>International Recruiment Committee Member, Tour Supervisor </i> </p>
   <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
   <p> - JHU STEM Leads: <i> Co-President </i> </p>
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
 
 <h2> Awards/Grants </h2>
-  p> At JHU: </p> 
+  <p> At JHU: </p> 
+  <p>     - Stephen and Carolyn Oppenheimer Award (Biology) </p>
+  <p>     - Loy Wilkinson Award (ChemBE) </p>
+  <p>     - Inducted to Beta Beta Beta Honor Society </p>
   <p>     - Inducted to Tau Beta Pi Honor Society </p>
-  <p>     - Chem BE AIChE Award </p>
+  <p>     - JHU AIChE Award (ChemBE) </p>
   <p>     - Life Design Lab Summer Experience Grant </p>
   
   <p> At Loomis: </p> 
