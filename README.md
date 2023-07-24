@@ -2,7 +2,7 @@
 <html>
 <h1>Yanxiang "Jimmy" Hu's Personal Website</h1>
   <p> Email: yhu59@jhu.edu</p>
-  <p> I am Jimmy, a Chemical and Biomolecular Engineering and Biology student at Johns Hopkins intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. I am currently looking for clinical research positions and opportunities to work in the healthcare setting.</p>
+  <p> I am Jimmy, a recent graduate of Johns Hopkins University, who is intersted in immunoengineering and medicine. I am passionate about the connections between chemistry and biology, specifically in regards to the immune system and seeing those applications in real life through collaboration. </p>
   
 <h2>Recent Updates and News </h2>
   <p> Spring 2023: Attended 2023 AIChE Mid-Altantic Regional Conference in Blacksburg, Virginia, and presented research! </p>
@@ -15,12 +15,12 @@
   <p> Bachelor of Science in Chemical and Biomolecular Engineering, Molecular and Cellular Bioengineering Track '23, </p>
   <p> Bachelor of Science in Molecular and Cellular Biology '23, </p>
   <p> Minor in Entrepreneurship & Management </p>
-  <p> Academic Adivisors: Dr. Konstantinos Konstantopulos, Dr. Emily Fisher </p>
+  <p> Academic Advisors: Dr. Konstantinos Konstantopulos, Dr. Emily Fisher </p>
   <p></p>
   <p> <b>Select Completed Coursework:</b></p>
   <p>         - Biology: Biochemistry w/lab, Cell Biology w/lab, Genetics, Molecular Biology </p>
   <p>         - Chemistry: Biomaterials I&II, Engineering Thermodynamics, Organic Chemistry I&II w/lab </p>
-  <p>         - Entrepenurship: Financial Accounting, Leadership Theory, Professional Writing and Communications </p>
+  <p>         - Entrepreneurship: Financial Accounting, Leadership Theory, Professional Writing and Communications </p>
   <p>         - Engineering: Gateway Computing: Python, Transport Phenomena I&II, Separations, Kinetics </p>
   <p>         - Mathematics: Calculus III, Differential Equations, Linear Algebra, Probability and Statstics</p>
   
@@ -32,10 +32,10 @@
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
   <p> - Dr. Scott Wilson at Translational Tissue Engineering Center, Johns Hopkins School of Medicine </p>
   <p> - Dr. Feng Rao at Southern China University of Science and Technology </p>
-  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck at University of Connecitcut Children's Hospital  </p>
+  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck at University of Connecticut Children's Hospital  </p>
   
 <h2>Volunteer Experiences </h2>
-  <p> I am engaged in the following services where I give back to the commmunity. </p>
+  <p> I am engaged in the following services where I give back to the community. </p>
   <p> - Translators Without Borders: <i>Senior Verified Translator</i> </p>
   <p> - MT&T Bank Stadium COVID-19 Mass Vaccination Site: <i>Volunteer</i> </p>
   <p> - Mt.Washington Pediatric Hospital: <i>Childlife Volunteer </i> </p>
