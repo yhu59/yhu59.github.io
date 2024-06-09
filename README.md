@@ -7,7 +7,7 @@
 <h2>Recent Updates and News </h2>
   <p> Spring 2023: Attended 2023 AIChE Mid-Altantic Regional Conference in Blacksburg, Virginia, and presented research! </p>
   <p> Fall 2022: Attended 2022 AIChE Annual Student Conference in Phoenix, Arizona and presented my research!</p>
-  <p> Spring 2022: Extremely excited to formally declare a double major in Molecular and Cellular Biology! And wrapping up Junior Year</p>
+  <p> Spring 2022: Extremely excited to formally declare a double major in Molecular and Cellular Biology! And wrapping up Junior Year!</p>
   
   
 <h2>Academic Experiences </h2>
@@ -32,7 +32,7 @@
   <p> I have had the pleasure to work with the following mentors in the research context. </p>
   <p> - Dr. Scott Wilson at Translational Tissue Engineering Center, Johns Hopkins School of Medicine </p>
   <p> - Dr. Feng Rao at Southern China University of Science and Technology </p>
-  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck at University of Connecticut Children's Hospital  </p>
+  <p> - Dr. Erica Gerace at Loomis Chaffee School, in collaboration with Dr. Christine Finck at the University of Connecticut Children's Hospital  </p>
   
 <h2>Volunteer Experiences </h2>
   <p> I am engaged in the following services where I give back to the community. </p>
@@ -54,7 +54,7 @@
 <p> I am proud to be affiliated with the following organizations. </p>
   <p> - AICHE JHU Chapter: <i>President</i> </p>
   <p> - JHU PILOT: <i>Session Leader </i></p>
-  <p> - JHU Blue Key Society: <i>International Recruiment Committee Member, Tour Supervisor </i> </p>
+  <p> - JHU Blue Key Society: <i>International Recruitment Committee Member, Tour Supervisor </i> </p>
   <p> - Maryland Science Olympiad JHU Chapter: <i> Volunteer </i> </p>
   <p> - JHU STEM Leads: <i> Co-President </i> </p>
   <p> - Boston High School Education: <i> Paid tutor </i> </p>
